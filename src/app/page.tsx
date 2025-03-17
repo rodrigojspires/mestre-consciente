@@ -1,1 +1,1 @@
-export default function Home() { return <div>O Mestre Consciente</div>; }
+export default function Home() { return (<div style={{backgroundColor:"#4c1d95", color:"white", minHeight:"100vh", display:"flex", alignItems:"center", justifyContent:"center", textAlign:"center", padding:"1rem"}}><h1 style={{fontSize:"2rem"}}>O Mestre Consciente</h1></div>); }
